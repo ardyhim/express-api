@@ -42,11 +42,11 @@
     },
     article_last: {
       method: GET,
-      url   : 'http://localhost:3000/api/article/most/comment'
+      url   : 'http://localhost:3000/api/article/last'
     },
     article_most_comment: {
       method: GET,
-      url   : 'http://localhost:3000/api/article/last'
+      url   : 'http://localhost:3000/api/article/most/comment'
     },
     article_read: {
       method: GET,
